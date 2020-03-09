@@ -9,7 +9,7 @@ git clone https://github.com/diya-singhal21/turtlesim_number.git
 ```
 Now source the setup.bash for every terminal
 ```Shell
-cd catkin_ws
+cd turtlesim_number/catkin_ws
 source devel/setup.bash
 ```
 Now finally run each of the nodes in different terminal. Remember to source the setup
