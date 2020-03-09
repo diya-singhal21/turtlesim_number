@@ -5,7 +5,7 @@ First clone the catkin_ws into your working directory
 ```Shell
 mkdir wkdir
 cd wrkdir
-git clone https://github.com/ShivamMalhotra1994/turtlesim_numbers.git
+git clone https://github.com/diya-singhal21/turtlesim_number.git
 ```
 Now source the setup.bash for every terminal
 ```Shell
